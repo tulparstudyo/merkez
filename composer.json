@@ -25,15 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Tulparstudyo\\": "app/"
+            "Tulparstudyo\\Merkez\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tulparstudyo\\": "test/"
+            "Tulparstudyo\\Merkez\\": "src"
         }
-    },
-    "bin": [
-        "bin/php-parse"
-    ]
+    }
 }
